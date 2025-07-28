@@ -1,0 +1,14 @@
+streamlit
+playwright
+pillow
+requests
+openai
+beautifulsoup4
+gspread
+google-auth
+notion-client
+
+
+
+
+Add requirements.txt with all dependencies
