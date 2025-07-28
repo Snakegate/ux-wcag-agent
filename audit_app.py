@@ -1,3 +1,5 @@
+import subprocess
+subprocess.run(["playwright", "install"])
 from audit import run_audit, export_to_notion, annotate_screenshot
 import streamlit as st
 
