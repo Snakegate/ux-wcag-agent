@@ -2,7 +2,7 @@ streamlit
 playwright
 pillow
 requests
-openai
+openai==0.28
 beautifulsoup4
 gspread
 google-auth
